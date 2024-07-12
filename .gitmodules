@@ -2,7 +2,3 @@
 	path = SD-VehicleInterface
 	url = git@github.com:AIR-UFG/SD-VehicleInterface.git
 	branch = fix/steer
-[submodule "ros2_socketcan"]
-	path = ros2_socketcan
-	url = git@github.com:AIR-UFG/ros2_socketcan.git
-	branch = main
